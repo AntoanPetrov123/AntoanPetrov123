@@ -1,5 +1,7 @@
 ### Hello, I'm Antoan! 👋
 
+<img src="https://profile-counter.glitch.me/AntoanPetrov123/count.svg">
+
 
 - 🔭 I’m currently not working
 - 🌱 I’m currently learning HTML & CSS / React
