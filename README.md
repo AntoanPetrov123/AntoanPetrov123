@@ -5,7 +5,7 @@
 
 
 - 😄 Pronouns: He/His
-- 🔭 I’m currently working at Delasport as Full Stack Developer
+- 🔭 I’m currently working at Delasport as a Full Stack Developer
 - 🌱 I’m currently learning Vue Advance Techniques and PHP
 - 👯 I’m looking to collaborate on a project with Vue or Node.js
 - 💬 Ask me about everything about JS
