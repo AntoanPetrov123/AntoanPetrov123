@@ -6,7 +6,7 @@
 
 - 😄 Pronouns: He/His
 - 🔭 I’m currently working at Delasport as a Full Stack Developer
-- 🌱 I’m currently learning Vue Advance Techniques and PHP
+- 🌱 I’m currently learning RabbitMQ and MySQL
 - 💬 Ask me about everything about JS
 - 📫 How to reach me: antoan999_kn@abv.bg or LinkedIn - https://www.linkedin.com/in/antoan-petrov-44632b218/
 - ⚡ Fun fact: I really love programming and I do it everyday. 
